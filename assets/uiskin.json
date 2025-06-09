@@ -1,0 +1,77 @@
+{
+	"com.badlogic.gdx.graphics.g2d.BitmapFont": {
+		"default": { "file": "default.fnt" }
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+		"default": {
+			"up": "default-round",
+			"down": "default-round-down",
+			"font": "default"
+		}
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+		"default": {
+			"font": "default",
+			"fontColor": "white"
+		}
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle": {
+		"default": {
+			"background": "default-round",
+			"titleFont": "default",
+			"titleFontColor": "white"
+		}
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle": {
+		"default": {
+			"background": "default-round",
+			"cursor": "cursor",
+			"font": "default",
+			"fontColor": "white",
+			"selection": "selection"
+		}
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle": {
+		"default": {
+			"background": "default-round"
+		}
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle": {
+		"default-horizontal": {
+			"background": "default-slider",
+			"knob": "default-slider-knob"
+		}
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle": {
+		"default-horizontal": {
+			"background": "default-slider",
+			"knob": "default-slider-knob"
+		}
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle": {
+		"default": {
+			"checkboxOff": "checkbox-off",
+			"checkboxOn": "checkbox-on",
+			"font": "default"
+		}
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle": {
+		"default": {
+			"selection": "default-select",
+			"font": "default",
+			"fontColorSelected": "white",
+			"fontColorUnselected": "white"
+		}
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle": {
+		"default": {
+			"background": "default-select",
+			"scrollStyle": "default",
+			"font": "default",
+			"listStyle": "default",
+			"backgroundOver": "default-select",
+			"scrollBackground": "default",
+			"scrollKnob": "default-slider-knob"
+		}
+	}
+}
